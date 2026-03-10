@@ -58,6 +58,6 @@ The system can take a new email message as input and automatically predict wheth
 
 OUTPUT:
 
+<img width="536" height="470" alt="Image" src="https://github.com/user-attachments/assets/71f42c9b-d9f9-4cef-80ce-981e275c5b5f" />
 <img width="510" height="393" alt="Image" src="https://github.com/user-attachments/assets/ee6cca79-649b-496d-87be-5d31bbc7bec4" />
 <img width="481" height="504" alt="Image" src="https://github.com/user-attachments/assets/f238a35a-96d2-4526-87e0-80d21f8f926e" />
-<img width="536" height="470" alt="Image" src="https://github.com/user-attachments/assets/71f42c9b-d9f9-4cef-80ce-981e275c5b5f" />
